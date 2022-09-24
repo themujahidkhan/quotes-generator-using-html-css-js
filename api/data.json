@@ -1,0 +1,39 @@
+{
+  "quotes": [
+    {
+      "id": "1",
+      "title": "Give me place to stand, I will move the earth",
+      "author": "Archimedes"
+    },
+    {
+      "id": "2",
+      "title": "Give me place to stand, I will move the mars",
+      "author": "Elon Musk"
+    },
+    {
+      "id": "3",
+      "title": "If you don't have time to read, you don't have the time (or the tools) to write. Simple as that.",
+      "author": "Stephen King"
+    },
+    {
+      "id": "4",
+      "title": "We write to taste life twice, in the moment and in retrospect.",
+      "author": "Anaïs Nin"
+    },
+    {
+      "id": "5",
+      "title": "One day I will find the right words, and they will be simple.",
+      "author": "Jack Kerouac, The Dharma Bums"
+    },
+    {
+      "id": "6",
+      "title": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "id": "7",
+      "title": "Read a thousand books, and your words will flow like a river..",
+      "author": "Lisa See"
+    }
+  ]
+}
